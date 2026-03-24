@@ -1,8 +1,8 @@
-# NFX_IA
+# EDGE_IA
 
 Workspace reproduzível para análise do NOFX, extração de dados Binance e migração da estratégia EMA 20/50 para Jesse.
 
-Este repositório não é o projeto de execução do Jesse nem um clone vendorado do NOFX. Ele é um workspace de pesquisa com:
+Ele é um workspace de pesquisa com:
 - dados históricos já baixados;
 - artefatos do backtest;
 - scripts auxiliares para reproduzir a estratégia;
