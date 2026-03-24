@@ -22,7 +22,7 @@ build/
 *.egg-info/
 
 # Local upstream clones kept outside the public repo
-nofx/
+EDGE_IA/
 jesse/
 
 # Temporary files
