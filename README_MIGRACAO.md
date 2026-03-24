@@ -1,4 +1,4 @@
-# Migração NOFX -> Jesse
+# Migração EDGE_IA -> Jesse
 
 Este arquivo aponta para a migração prática do backtest EMA20/EMA50.
 
@@ -7,7 +7,7 @@ Este arquivo aponta para a migração prática do backtest EMA20/EMA50.
 - Runner do workspace: `scripts/run_ema_crossover_backtest.py`
 - Preparação do workspace: `scripts/prepare_backtest.sh`
 
-## Como rodar do diretório `NFX_IA`
+## Como rodar do diretório `EDGE_IA`
 
 ```bash
 bash scripts/prepare_backtest.sh
