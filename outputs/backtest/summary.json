@@ -1,0 +1,21 @@
+{
+  "initial_capital": 10000.0,
+  "final_equity": 11827.674893941039,
+  "total_return_pct": 18.276748939410382,
+  "max_drawdown_pct": 39.46546719260339,
+  "trades": 169,
+  "wins": 51,
+  "losses": 118,
+  "win_rate_pct": 30.17751479289941,
+  "profit_factor": 1.0712484407154959,
+  "gross_profit": 27479.813741992308,
+  "gross_loss": 25652.13884805126,
+  "total_fees": 1848.9856716990382,
+  "input": "data/binance/BTCUSDT_1h.csv",
+  "output_dir": "outputs/backtest",
+  "fee_rate": 0.0004,
+  "bars": 17544,
+  "start": "2024-01-01T00:00:00Z",
+  "end": "2025-12-31T23:00:00Z",
+  "strategy": "NofxEma20Ema50Crossover"
+}
