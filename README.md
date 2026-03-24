@@ -1,6 +1,6 @@
 # EDGE_IA
 
-Workspace reproduzível para análise do NOFX, extração de dados Binance e migração da estratégia EMA 20/50 para Jesse.
+Workspace reproduzível para análise do EDGE_IA, extração de dados Binance e migração da estratégia EMA 20/50 para Jesse.
 
 Ele é um workspace de pesquisa com:
 - dados históricos já baixados;
@@ -41,7 +41,7 @@ Esses caminhos já estão cobertos por [`.gitignore`](./.gitignore).
 ## Estrutura
 
 ```text
-NFX_IA/
+EDGE_IA/
 ├── README.md
 ├── README_MIGRACAO.md
 ├── .gitignore
@@ -75,12 +75,12 @@ Esse comando valida o dataset `BTCUSDT_1h.csv` e executa o backtest auxiliar.
 
 O Jesse foi movido para uma pasta exclusiva fora deste repositório:
 
-- `/Users/gustavomedeiros/Desktop/jesse`
+- `/Users/User/Desktop/jesse`
 
 Se você quiser o dashboard do Jesse, rode o bootstrap a partir do diretório dele:
 
 ```bash
-cd /Users/gustavomedeiros/Desktop/jesse
+cd /Users/User/Desktop/jesse
 bash scripts/bootstrap_jesse.sh
 ```
 
